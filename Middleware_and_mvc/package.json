@@ -1,0 +1,17 @@
+{
+  "name": "middleware_and_mvc",
+  "version": "1.0.0",
+  "desciption": "to learn middleware and mvc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
